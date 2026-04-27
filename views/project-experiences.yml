@@ -1,0 +1,9 @@
+name: Project Experiences
+icon: rocket
+color: "#f59e0b"
+sort: "property:end_date:desc"
+filters:
+  all:
+    - field: type
+      op: equals
+      value: Project Experience

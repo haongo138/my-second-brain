@@ -68,7 +68,7 @@ The default template is **fullstack-friendly**: it includes sections for backend
 
 ## How to use
 
-Create one note per stack, named after the dominant ecosystem (e.g. `rust-stack.md`, `fullstack-go-nextjs-postgres.md`). Fill in the sections below with your current favorites — keep it short, opinionated, and easy to update as preferences shift.
+Create one note per stack inside `technology-stacks/`, named after the dominant ecosystem (e.g. `technology-stacks/rust-stack.md`, `technology-stacks/fullstack-go-nextjs-postgres.md`). Fill in the sections below with your current favorites — keep it short, opinionated, and easy to update as preferences shift.
 
 ## Properties
 

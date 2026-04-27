@@ -1,0 +1,12 @@
+name: Ongoing Projects
+icon: zap
+color: "#3b82f6"
+sort: "property:start_date:desc"
+filters:
+  all:
+    - field: type
+      op: equals
+      value: Project Experience
+    - field: status
+      op: equals
+      value: Ongoing

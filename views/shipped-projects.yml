@@ -1,0 +1,12 @@
+name: Shipped Projects (CV)
+icon: check-circle
+color: "#10b981"
+sort: "property:end_date:desc"
+filters:
+  all:
+    - field: type
+      op: equals
+      value: Project Experience
+    - field: status
+      op: equals
+      value: Shipped
