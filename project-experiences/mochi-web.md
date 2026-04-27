@@ -9,7 +9,6 @@ status: Shipped
 tech_stack: []
 related_to: []
 ---
-
 # Mochi Web — Multi-Chain Crypto Tipping & Payments Frontend
 
 ## Summary
@@ -70,11 +69,12 @@ Crypto tipping and payments only feel native when the user doesn't have to think
 
 ## Lessons Learned
 
-- _(STAR-style story to add: e.g. how the unified `WalletProvider` evolved to compose Sui, EVM, and Solana ecosystems behind one connect modal, or why OG image generation was moved to Vercel Edge with custom fonts.)_
+- *(STAR-style story to add: e.g. how the unified *`WalletProvider`* evolved to compose Sui, EVM, and Solana ecosystems behind one connect modal, or why OG image generation was moved to Vercel Edge with custom fonts.)*
 
 ## Notes
 
-_Private context — strip before sharing externally._
+*Private context — strip before sharing externally.*
 
 - One-liner for resume:
-  > **Mochi Web (mochi.gg)** — Built and maintained the Next.js front end for a multi-chain crypto tipping and payments product (EVM, Solana, Sui), including wallet connect (wagmi/Solana/Sui), pay links, airdrops, tip network force-graph visualization, profile dashboard, and OG image generation (Vercel Edge); TypeScript, Tailwind, Zustand, SWR, and typed APIs from Swagger.
+
+> **Mochi Web (mochi.gg)** — Built and maintained the Next.js front end for a multi-chain crypto tipping and payments product (EVM, Solana, Sui), including wallet connect (wagmi/Solana/Sui), pay links, airdrops, tip network force-graph visualization, profile dashboard, and OG image generation (Vercel Edge); TypeScript, Tailwind, Zustand, SWR, and typed APIs from Swagger.

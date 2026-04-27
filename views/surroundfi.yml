@@ -1,0 +1,9 @@
+name: SurroundFi
+icon: layers
+color: "#8b5cf6"
+sort: "property:end_date:desc"
+filters:
+  all:
+    - field: related_to
+      op: contains
+      value: "[[surroundfi]]"
